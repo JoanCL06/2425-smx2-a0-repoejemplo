@@ -29,9 +29,8 @@ Este texto esta en *cursiva* y este también está en _cursiva_
 ``# Encabezado``
 
 ```HTML
+[https://www.fje.edu/ca/jesuites-bellvitge]
 
-[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
-
-![Coche]("Titulo opcional de la imagen")
+![Coche]
 
 

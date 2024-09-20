@@ -1,4 +1,9 @@
 # 2425-smx2-a0-repoejemplo
-Primer repositorio en smx2 de ejemplo de uso de aplicaciones
-Primer cambio hecho en el bloc
-segundo cambio
+
+
+# Encabezado 1 
+## Encabezado 2
+### Encabezado 3
+#### H4
+##### H5
+###### H6

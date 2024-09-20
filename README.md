@@ -30,5 +30,7 @@ Este texto esta en *cursiva* y este también está en _cursiva_
 
 ```HTML
 
-[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge)
+(https://www.fje.edu/ca/jesuites-bellvitge)
+
+
 

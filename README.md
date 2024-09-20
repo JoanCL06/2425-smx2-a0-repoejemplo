@@ -30,7 +30,7 @@ Este texto esta en *cursiva* y este también está en _cursiva_
 
 ```HTML
 
-(https://srv.net.fje.edu/net2/#/lanet "hola")
+[Enlace a la web del colegio](https://srv.net.fje.edu/net2/#/lanet)
 
 ![Coche]
 

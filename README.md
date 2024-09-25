@@ -30,9 +30,14 @@ Este texto esta en *cursiva* y este también está en _cursiva_
 
 ```HTML
 
-[Enlace a la web del colegio] (https://srv.net.fje.edu/net2/#/lanet)
+[Enlace a la web del colegio](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
 
-![Coche]
+![Coche](https://github.com/JoanCL06/2425-smx2-a0-repoejemplo/blob/main/coches.jpg "Titulo 
+opcional de la imagen")
 
-
+|Columna 1 |Columna 2 | Columna 3 |
+|--------------|:-----------:|------------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
+|zebra stripes |son limpias|$1|
 
